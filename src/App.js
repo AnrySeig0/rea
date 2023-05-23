@@ -1,8 +1,8 @@
-import {ExportAvatar} from "./lessons/passingProps";
+import {PackingList} from "./lessons/conditional_rendering";
 
 
 export default function Gallery() {
   return (
-      <ExportAvatar/>
+      <PackingList/>
   );
 }
